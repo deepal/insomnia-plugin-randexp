@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-randexp",
+  "version": "1.0.0",
+  "private": true,
+  "insomnia": {
+    "name": "randexp",
+    "description": "Template tag to generate random data that matches a regex"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "randexp": "^0.5.3"
+  }
+}
